@@ -5,6 +5,6 @@ I work primarily with Node.js/Electron and Java, but I also know C .. so uhh, ye
 
 ## About Me
 
-.. oh no. Outdated. hm.
+.. oh no. outdated. hm. I'll fix that ltr!
 
 Got into programming thru MC plugins, might upload some of them in the future. Odd way, I know, I don't really know what I'm doing here any more than you do.
