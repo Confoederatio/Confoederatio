@@ -1,10 +1,17 @@
-## Heyya! I'm Australis. 
-If you're seeing this message currently, maybe you'd like to collaborate on some of my projects I keep around. I dunno, I work on them from time to time.
+## Hello. We are Confoederatio.
 
-I work primarily with Node.js/Electron and Java, but I also know C .. so uhh, yeah. I'm trying to complete some of my older projects that I still have from a while ago. If you have any questions, feel free to DM me, you can contact me over Discord at @Australis#6709.
+We're a reformed R&D studio that focuses mainly on scientific tooling, technical infrastructure, and complex strategy/simulation games. Since most of us are in university, we'll likely be scaling back some of our current projects to focus more on future, long-term investments into general frameworks, geostatistics, and UI work.
 
-## About Me
+### Contact.
 
-.. oh no. outdated. hm. I'll fix that ltr!
+E-mail: vf.confoederatio@gmail.com
+Discord: https://discord.gg/midnight-548994743925997570
 
-Got into programming thru MC plugins, might upload some of them in the future. Odd way, I know, I don't really know what I'm doing here any more than you do.
+## Avreu! Vir Confoederatio.
+
+Rísei g a R&D-Studio reformér eie an Scizoigs, Tecnicinfra, et Complecdies strat/sim cocentier primar e. Danit rísei en mest i Uni g, virerie varlé iér eur Projets rucscala; en Zunt, Storen langterm i Genframvercs, Geostats et UI lá.
+
+### Conté
+
+E-mail: vf.confoederatio@gmail.com
+Discord: https://discord.gg/midnight-548994743925997570
