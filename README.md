@@ -8,7 +8,7 @@ We're a reformed R&D studio that focuses mainly on scientific tooling, technical
 
 ### Contact.
 
-E-mail: vf.confoederatio@gmail.com
+E-mail: vf.confoederatio@gmail.com<br>
 Discord: https://discord.gg/midnight-548994743925997570
 
 ---
@@ -23,5 +23,5 @@ Rísei g a R&D-Studio reformér eie an Scizoigs, Tecnicinfra, et Complecdies str
 
 ### Conté.
 
-E-mail: vf.confoederatio@gmail.com
+E-mail: vf.confoederatio@gmail.com<br>
 Discord: https://discord.gg/midnight-548994743925997570
