@@ -50,7 +50,7 @@ __Grand-strategy Games/Mods:__
 
 Software & Tooling:
 - **Ampersand Mod Creator:** A mod creator for Triumph & Tragedy.
-  - [📦 Releases](https://github.com/Confoederatio/Ampersand-Mod-Creator/releases) | 💻 Source (Repository)](https://github.com/Confoederatio/Ampersand-Mod-Creator)
+  - [📦 Releases](https://github.com/Confoederatio/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Ampersand-Mod-Creator)
 
 ---
 
