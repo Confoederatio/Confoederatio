@@ -20,7 +20,7 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
 
 ### CRD Projects.
 __Archives:__
-- **Preservés des Confoederatio**: Digital and physical archives of historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
+- **Preservés des Confoederatio**: Digital and physical archives of ~4000 historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
   - [📚 Digital Preservés](https://discord.com/channels/548994743925997570/1087880811501600788)
 
 __Datasets:__
