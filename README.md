@@ -1,4 +1,4 @@
-## Hello. We are Confoederatio.
+# Hello. We are Confoederatio.
 
 We're a reformed skeleton R&D studio that focuses mainly on scientific tooling, technical infrastructure, and complex strategy/simulation games. Since most of us are in university, we'll likely be scaling back some of our current projects to focus more on future, long-term investments into general frameworks, geostatistics, and UI work.
 
