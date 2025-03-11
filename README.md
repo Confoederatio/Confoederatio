@@ -29,3 +29,6 @@ Rísei g a R&D-Studio reformér eie an Scizoigs, Tecnicinfra, et Complecdies str
 
 E-mail: vf.confoederatio@gmail.com<br>
 Discord: https://discord.gg/midnight-548994743925997570
+<br><br>
+
+<img src = "https://i.postimg.cc/8CKkNXk2/crd-light-logo.png" height = "64"> <img src = "https://i.postimg.cc/hjTYphY2/ctd-light-logo.png" height = "64">
