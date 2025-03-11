@@ -13,7 +13,7 @@ We're a reformed R&D studio that focuses mainly on scientific tooling, technical
 E-mail: vf.confoederatio@gmail.com<br>
 Discord: https://discord.gg/midnight-548994743925997570
 
-<br>
+<div align = "center">-</div>
 
 ### CRD Projects.
 __Datasets:__
