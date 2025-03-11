@@ -13,14 +13,23 @@ Discord: https://discord.gg/midnight-548994743925997570
 
 <div align = "center">-</div>
 
+### CAD Projects.
+
+Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork used in Confoederatio projects. 
+  - Socials: [🖌️ DeviantArt](https://www.deviantart.com/australiszero) | [💬 Discord](https://discord.com/channels/548994743925997570/964504182625296415)
+
 ### CRD Projects.
+__Archives:__
+- **Preservés des Confoederatio**: Digital and physical archives of historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
+  - [📚 Digital Preservés](https://discord.com/channels/548994743925997570/1087880811501600788)
+
 __Datasets:__
 - **Eoscala 1.0**: GDP (PPP) and other economic activity estimates from 10000BC-2022AD.
   - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala)
 - **Velkscala 0.5**: Population estimates from 10000BC-2023AD.
   - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala)
 
-Software & Tooling:
+__Software & Tooling:__
 - **Long-Term Model of Human Behaviour:** Cognitive architecture. Prototype SD/CLD-based ABM for long-term personality retention and dependent memory in cognition and decision-making.
   - [📝 Paper (Working Technical Draft)](https://docs.google.com/document/d/1pmYnD0pVYnxatR96WDLCmsKMFMa_4ROOBp_nt2eg8hY/edit?usp=sharing) | [🧠 Head Model](https://drive.google.com/file/d/1nligSIH0zylj2unhM5-ir3MLNQuIjUvJ/view?usp=sharing) | [:bug: Tail Model](https://drive.google.com/file/d/1w4x3bH_XQqSvrUZIVc_Jn-eNEYt5R90s/view?usp=sharing)
 - **Naissance GIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
