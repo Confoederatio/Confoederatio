@@ -30,10 +30,10 @@ __Datasets:__
   - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala)
 
 __Software & Tooling:__
-- **Long-Term Model of Human Behaviour:** Cognitive architecture. Prototype SD/CLD-based ABM for long-term personality retention and dependent memory in cognition and decision-making.
-  - [📝 Paper (Working Technical Draft)](https://docs.google.com/document/d/1pmYnD0pVYnxatR96WDLCmsKMFMa_4ROOBp_nt2eg8hY/edit?usp=sharing) | [🧠 Head Model](https://drive.google.com/file/d/1nligSIH0zylj2unhM5-ir3MLNQuIjUvJ/view?usp=sharing) | [:bug: Tail Model](https://drive.google.com/file/d/1w4x3bH_XQqSvrUZIVc_Jn-eNEYt5R90s/view?usp=sharing)
 - **Naissance GIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
   - [📦 Releases](https://github.com/Confoederatio/Naissance/releases) | [:computer: Source (Repository)](https://github.com/Confoederatio/Naissance)
+- **Project Humanity:** A prototype long-term SD/CLD-based ABM and cognitive architecture for personality retention and dependent memory in cognition and decision-making.
+  - [📝 Paper (Working Technical Draft)](https://docs.google.com/document/d/1pmYnD0pVYnxatR96WDLCmsKMFMa_4ROOBp_nt2eg8hY/edit?usp=sharing) | [🧠 Head Model](https://drive.google.com/file/d/1nligSIH0zylj2unhM5-ir3MLNQuIjUvJ/view?usp=sharing) | [:bug: Tail Model](https://drive.google.com/file/d/1w4x3bH_XQqSvrUZIVc_Jn-eNEYt5R90s/view?usp=sharing)
 
 ### CTD Projects.
 __Frameworks:__
