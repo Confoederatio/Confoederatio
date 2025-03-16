@@ -63,4 +63,4 @@ __Soft et Zoins:__
  
 ---
 
-<img src = "https://i.postimg.cc/8CKkNXk2/crd-light-logo.png" height = "64"> <img src = "https://i.postimg.cc/hjTYphY2/ctd-light-logo.png" height = "64">
+<img src = "https://i.postimg.cc/FKyWCxNh/cad-light-logo.png" height = "64"> <img src = "https://i.postimg.cc/8CKkNXk2/crd-light-logo.png" height = "64"> <img src = "https://i.postimg.cc/hjTYphY2/ctd-light-logo.png" height = "64">
