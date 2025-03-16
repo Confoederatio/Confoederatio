@@ -1,4 +1,4 @@
-Langues: [Allemand](https://github.com/Confoederatio/Confoederatio/blob/main/README_DE.md) | [Binerien](https://github.com/Confoederatio/Confoederatio/blob/main/README_BN.md) | [English](https://github.com/Confoederatio/Confoederatio/blob/main/README_EN.md) | **Français**
+Langues: [Allemand](https://github.com/Confoederatio/Confoederatio/blob/main/README_DE.md) | [Binerien](https://github.com/Confoederatio/Confoederatio/blob/main/README_BN.md) | [English](https://github.com/Confoederatio/Confoederatio/blob/main/README.md) | **Français**
 
 # Bonjour. Nous sommes Confoederatio.
 
