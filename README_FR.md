@@ -57,7 +57,7 @@ __Grands Jeux Stratégiques/Mods :__
 - **Triumph & Tragedy II** : Un jeu multijoueur de grande stratégie open-source axé sur la période entre 1500-2092 avec des systèmes démographiques et de combat détaillés, avec un accent particulier sur la logistique et la modélisation économique ascendante.
   - [📦 Releases](https://github.com/Confoederatio/TriumphAndTragedy/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
 
-Software & Tooling:
+__Logiciels et outils :__
 - **Ampersand Mod Creator:** Un créateur de mods pour Triumph & Tragedy.
   - [📦 Releases](https://github.com/Confoederatio/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Ampersand-Mod-Creator)
 
