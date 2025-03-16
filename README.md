@@ -1,4 +1,4 @@
-Languages: [Benerian](https://github.com/Confoederatio/Confoederatio/blob/main/README_BN.md) | **English**
+Languages: [Benerian](https://github.com/Confoederatio/Confoederatio/blob/main/README_BN.md) | **English** | [French](https://github.com/Confoederatio/Confoederatio/blob/main/README_FR.md) | [German](https://github.com/Confoederatio/Confoederatio/blob/main/README_DE.md)
 
 # Hello. We are Confoederatio.
 
