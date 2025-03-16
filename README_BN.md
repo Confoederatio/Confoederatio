@@ -1,4 +1,4 @@
-Sprazs: [Anglér]( | **Binerien**
+Sprazs: [Anglér](https://github.com/Confoederatio/Confoederatio/blob/main/README.md) | **Binerien**
 
 ## Avreu. Vir e Confoederatio.
 
