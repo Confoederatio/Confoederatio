@@ -18,11 +18,11 @@ Discord : https://discord.gg/midnight-548994743925997570
 ### Projets CAD.
 
 Confoederatio, la division artistique est en charge du design UI/UX ainsi que des illustrations utilisées dans les projets de Confoederatio.
-  - Socials: [🖌️ DeviantArt](https://www.deviantart.com/australiszero) | [💬 Discord](https://discord.com/channels/548994743925997570/964504182625296415)
+  - Socials : [🖌️ DeviantArt](https://www.deviantart.com/australiszero) | [💬 Discord](https://discord.com/channels/548994743925997570/964504182625296415)
 
 ### Projets CRD.
 __Archives :__
-- **Preservés des Confoederatio**: Archives numériques et physiques de ~4000 cartes et atlas historiques, ainsi que des traductions de documents historiques. Vous pouvez ouvrir une enquête privée si vous êtes intéressé par les fonds physiques des Preservés.
+- **Preservés des Confoederatio** : Archives numériques et physiques de ~4000 cartes et atlas historiques, ainsi que des traductions de documents historiques. Vous pouvez ouvrir une enquête privée si vous êtes intéressé par les fonds physiques des Preservés.
   - [📚 Preservés numériques](https://discord.com/channels/548994743925997570/1087880811501600788)
 
 __Jeux de données :__
