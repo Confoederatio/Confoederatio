@@ -57,7 +57,7 @@ __Grand-strategy Games/Mods:__
 - **Triumph & Tragedy II**: An open-source grand-strategy multiplayer game focused on the period between 1500-2092 with detailed demographic and combat systems with a particular focus on logistics and bottom-up economic modelling.
   - [📦 Releases](https://github.com/Confoederatio/TriumphAndTragedy/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
 
-Software & Tooling:
+__Software & Tooling:__
 - **Ampersand Mod Creator:** A mod creator for Triumph & Tragedy.
   - [📦 Releases](https://github.com/Confoederatio/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Ampersand-Mod-Creator)
 
