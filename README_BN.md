@@ -2,6 +2,8 @@ Sprazs: [Anglér](https://github.com/Confoederatio/Confoederatio/blob/main/READM
 
 # Avreu. Vir e Confoederatio.
 
+[📝 Docs](https://confoederatiodocs.info)
+
 Rísei g a Studio LD scelreformér eie an Scizoins, Infra tecnér, et Stratcomplec od Cuel simér. Danit mestvír g i Université, virerie prosér a Partes eur Projets untscala, en Storens langenzunt concen i Genframvercs, Geostats, et Lá-UI.
 
 ### Gleders nueler.
