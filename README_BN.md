@@ -13,7 +13,7 @@ Rísei g a Studio LD scelreformér eie an Scizoins, Infra tecnér, et Stratcompl
 ### Conté.
 
 E-mail: vf.confoederatio@gmail.com<br>
-Discord: https://discord.gg/midnight-548994743925997570
+Discord: [https://discord.gg/midnight](https://discord.gg/midnight-548994743925997570)
 
 <div align = "center">-</div>
 
