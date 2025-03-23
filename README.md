@@ -13,7 +13,7 @@ We're a reformed skeleton R&D studio that focuses mainly on scientific tooling, 
 ### Contact.
 
 E-mail: vf.confoederatio@gmail.com<br>
-Discord: https://discord.gg/midnight-548994743925997570
+Discord: [https://discord.gg/midnight](https://discord.gg/midnight-548994743925997570)
 
 <div align = "center">-</div>
 
