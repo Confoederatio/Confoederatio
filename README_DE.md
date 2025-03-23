@@ -2,6 +2,8 @@ Sprachen: [Benerian](https://github.com/Confoederatio/Confoederatio/blob/main/RE
 
 # Hallo. Wir sind Confoederatio.
 
+[📝 Dokumentation](https://confoederatiodocs.info)
+
 Wir sind ein reformiertes F&E-Skelettstudio, das sich hauptsächlich auf wissenschaftliche Werkzeuge, technische Infrastruktur und komplexe Strategie-/Simulationsspiele konzentriert. Da die meisten von uns an der Universität sind, werden wir wahrscheinlich einige unserer aktuellen Projekte zurückfahren, um uns mehr auf zukünftige, langfristige Investitionen in allgemeine Frameworks, Geostatistik und UI-Arbeit zu konzentrieren.
 
 ### Aktuelle Mitglieder.
