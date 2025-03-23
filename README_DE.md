@@ -13,7 +13,7 @@ Wir sind ein reformiertes F&E-Skelettstudio, das sich hauptsächlich auf wissens
 ### Kontakt.
 
 E-mail: vf.confoederatio@gmail.com<br>
-Discord: https://discord.gg/midnight-548994743925997570
+Discord: [https://discord.gg/midnight](https://discord.gg/midnight-548994743925997570)
 
 <div align = "center">-</div>
 
