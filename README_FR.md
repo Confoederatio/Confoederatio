@@ -35,7 +35,7 @@ __Jeux de données :__
 
 __Logiciels et outils :__
 - **Naissance GIS** : Un SIG 3D historique axé sur la souveraineté, la visualisation statistique et la manipulation de données.
-  - [📦 Releases](https://github.com/Confoederatio/Naissance/releases) | [:computer: Source (Repository)](https://github.com/Confoederatio/Naissance)
+  - [📦 Versions](https://github.com/Confoederatio/Naissance/releases) | [:computer: Source (Repository)](https://github.com/Confoederatio/Naissance)
 - **Projet Humanité** : Un prototype d'ABM à long terme basé sur SD/CLD et une architecture cognitive pour la rétention de la personnalité et la mémoire dépendante dans la cognition et la prise de décision.
   - [📝 Papier (Brouillon technique)](https://docs.google.com/document/d/1pmYnD0pVYnxatR96WDLCmsKMFMa_4ROOBp_nt2eg8hY/edit?usp=sharing) | [🧠 Head Model](https://drive.google.com/file/d/1nligSIH0zylj2unhM5-ir3MLNQuIjUvJ/view?usp=sharing) | [:bug: Tail Model](https://drive.google.com/file/d/1w4x3bH_XQqSvrUZIVc_Jn-eNEYt5R90s/view?usp=sharing)
 
@@ -46,7 +46,7 @@ __Cadres :__
 
 __Moteurs de jeu :__
 - **AnalyticalEngine** : Moteur basé sur Java/Nashorn pour étendre la moddabilité à AOC3.
-  - [📦 Releases](https://github.com/Confoederatio/AnalyticalEngine/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/AnalyticalEngine/releases) | [🚂 Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3429582135)
+  - [📦 Versions](https://github.com/Confoederatio/AnalyticalEngine/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/AnalyticalEngine/releases) | [🚂 Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3429582135)
 - **Gamechanger** : Moteur de grande stratégie basé sur les nœuds avec support de modding DSL basé sur JSON, principalement utilisé pour T&T1 et T&T2.
   - [📑 Documentation](https://docs.google.com/document/d/1uLfSMooByn0jtm6hfKK8rn8c9Qj9FCWv8JibFgOQwhc/edit?usp=sharing) | [💻 Source (Repository), Exemples](https://github.com/Confoederatio/TriumphAndTragedy/tree/main/common)
   
@@ -57,11 +57,11 @@ __Grands Jeux Stratégiques/Mods :__
 - **Triumph & Tragedy I** (Legacy) : Un simple jeu de stratégie multijoueur open-source conçu pour être moddable. La base de code est maintenant obsolète.
   - [💻 Source (Repository)](https://github.com/Confoederatio/Project-1858---Ampersand-RP5) - :warning: Ce repository est maintenant obsolète. Vous pouvez ouvrir une demande privée si vous êtes intéressé par le code source.
 - **Triumph & Tragedy II** : Un jeu multijoueur de grande stratégie open-source axé sur la période entre 1500-2092 avec des systèmes démographiques et de combat détaillés, avec un accent particulier sur la logistique et la modélisation économique ascendante.
-  - [📦 Releases](https://github.com/Confoederatio/TriumphAndTragedy/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
+  - [📦 Versions](https://github.com/Confoederatio/TriumphAndTragedy/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
 
 __Logiciels et outils :__
 - **Ampersand Mod Creator:** Un créateur de mods pour Triumph & Tragedy.
-  - [📦 Releases](https://github.com/Confoederatio/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Ampersand-Mod-Creator)
+  - [📦 Versions](https://github.com/Confoederatio/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Ampersand-Mod-Creator)
 
 ---
 
