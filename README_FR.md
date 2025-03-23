@@ -13,7 +13,7 @@ Nous sommes un studio de R&D réformé qui se concentre principalement sur les o
 ### Contact.
 
 Courriel : vf.confoederatio@gmail.com<br>
-Discord: [https://discord.gg/midnight](https://discord.gg/midnight-548994743925997570)
+Discord : [https://discord.gg/midnight](https://discord.gg/midnight-548994743925997570)
 
 <div align = "center">-</div>
 
