@@ -47,6 +47,8 @@ __Cuelengen:__
   - [📑 Docs](https://docs.google.com/document/d/1uLfSMooByn0jtm6hfKK8rn8c9Qj9FCWv8JibFgOQwhc/edit?usp=sharing) | [💻 Celle (Repo), Pes](https://github.com/Confoederatio/TriumphAndTragedy/tree/main/common)
   
 __Framvercs.__
+- **Scriptly**: Deausoftengen vit CLI/UI vo Apps confedér hocven.
+  - [💻 Celle (Repo)](https://github.com/Confoederatio/Scriptly) 
 - **Universal Framework (UF)**: Biblio genperse vo Deveasé et Funcsionaire eten rese Projets confoederatio.
   - [💻 Celle (Repo)](https://github.com/Confoederatio/UniversalFramework)
 
