@@ -54,8 +54,8 @@ __Grands Jeux Stratégiques/Mods :__
 - **11:59** : Un mod de guerre froide pour AOC2/AOC3. Vous pouvez trouver les différentes versions du jeu ci-dessous :
   - AOC2 : [💻 Source (ModDB)](https://www.moddb.com/mods/1159-a-cold-war-mod)
   - AOC3 : [💻 Source (Repository)](https://github.com/Confoederatio/AnalyticalEngine/tree/main/src/mods/11.59)
-- **Triumph & Tragedy I** (Legacy) : Un simple jeu de stratégie multijoueur open-source conçu pour être moddable. La base de code est maintenant obsolète.
-  - [💻 Source (Repository)](https://github.com/Confoederatio/Project-1858---Ampersand-RP5) - :warning: Ce repository est maintenant obsolète. Vous pouvez ouvrir une demande privée si vous êtes intéressé par le code source.
+- **Triumph & Tragedy I** :
+  - [📦 Versions](https://github.com/Confoederatio/RP5.2/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/RP5.2)
 - **Triumph & Tragedy II** : Un jeu multijoueur de grande stratégie open-source axé sur la période entre 1500-2092 avec des systèmes démographiques et de combat détaillés, avec un accent particulier sur la logistique et la modélisation économique ascendante.
   - [📦 Versions](https://github.com/Confoederatio/TriumphAndTragedy/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
 
