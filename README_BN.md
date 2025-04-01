@@ -55,7 +55,7 @@ __Granstratcuels/Mods:__
   - AOC2: [💻 Celle (ModDB)](https://www.moddb.com/mods/1159-a-cold-war-mod)
   - AOC3: [💻 Celle (Repository)](https://github.com/Confoederatio/AnalyticalEngine/tree/main/src/mods/11.59)
 - **Triumph & Tragedy I** (Let): A Granstratcuel MP easé et ofencelle ben vo Mods. Codbas jezt depren.
-  - [💻 Celle (Repo)](https://github.com/Confoederatio/Project-1858---Ampersand-RP5) - :warning: D Repo et jezt depren. Soi zan a Encuir privé, ej soi interss iré Codcelle.
+  - [📦 Relens](https://github.com/Confoederatio/RP5.2/releases) | [💻 Celle (Repo)](https://github.com/Confoederatio/RP5.2)
 - **Triumph & Tragedy II**: A Granstratcuel MP ofencelle anré Ér hend 1500-2092 concen vit Détas demo et Teré combat vit a Concentier partetér an Logi et unt-hoc Eomodel.
   - [📦 Relens](https://github.com/Confoederatio/TriumphAndTragedy/releases) | [💻 Celle (Repo)](https://github.com/Confoederatio/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
 
