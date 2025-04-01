@@ -54,7 +54,7 @@ __Grand-strategy Spiele/Mods:__
 - **11:59**: Eine Cold War Mod für AOC2/AOC3. Die einzelnen Spielversionen finden Sie unten:
   - AOC2: [💻 Quelle (ModDB)](https://www.moddb.com/mods/1159-a-cold-war-mod)
   - AOC3: [💻 Quelle (Repository)](https://github.com/Confoederatio/AnalyticalEngine/tree/main/src/mods/11.59)
-- **Triumph & Tragedy I**:
+- **Triumph & Tragedy I**: Ein einfaches, quelloffenes Multiplayer-Großstrategiespiel und ein vollautomatisches NFP, das auf Moddbarkeit ausgelegt ist. 
   - [📦 Veröffentlichungen](https://github.com/Confoederatio/RP5.2/releases) | [💻 Quelle (Repository)](https://github.com/Confoederatio/RP5.2)
 - **Triumph & Tragedy II**: Ein Open-Source-Großstrategiespiel für mehrere Spieler, das sich auf den Zeitraum zwischen 1500 und 2092 konzentriert, mit detaillierten demographischen und Kampfsystemen mit besonderem Schwerpunkt auf Logistik und wirtschaftlicher Bottom-up-Modellierung.
   - [📦 Veröffentlichungen](https://github.com/Confoederatio/TriumphAndTragedy/releases) | [💻 Quelle (Repository)](https://github.com/Confoederatio/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
