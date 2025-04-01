@@ -41,6 +41,8 @@ __Software & Tooling:__
 
 ### CTD Projects.
 __Frameworks:__
+- **Scriptly**: Dual-purpose software engine featuring both CLI and UI components for bootstrapping Confoederatio applications to.
+  - [💻 Source (Repository)](https://github.com/Confoederatio/Scriptly) 
 - **Universal Framework (UF)**: General-purpose library for developer ease of use and extended functionality across Confoederatio projects.
   - [💻 Source (Repository)](https://github.com/Confoederatio/UniversalFramework)
 
