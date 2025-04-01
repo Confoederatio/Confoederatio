@@ -41,6 +41,8 @@ __Logiciels et outils :__
 
 ### Projets CTD.
 __Cadres :__
+- **Scriptly** : - **Scriptly** : Moteur logiciel à double usage comprenant à la fois des composants CLI et UI pour démarrer les applications Confoederatio.
+  - [💻 Source (Repository)](https://github.com/Confoederatio/Scriptly) 
 - **Universal Framework (UF)** : Bibliothèque à usage général pour faciliter l'utilisation par les développeurs et étendre les fonctionnalités à l'ensemble des projets de la Confoederatio.
   - [💻 Source (Repository)](https://github.com/Confoederatio/UniversalFramework)
 
