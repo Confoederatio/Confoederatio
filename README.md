@@ -55,7 +55,7 @@ __Grand-strategy Games/Mods:__
   - AOC2: [💻 Source (ModDB)](https://www.moddb.com/mods/1159-a-cold-war-mod)
   - AOC3: [💻 Source (Repository)](https://github.com/Confoederatio/AnalyticalEngine/tree/main/src/mods/11.59)
 - **Triumph & Tragedy I** (Legacy): A simple open-source multiplayer grand-strategy game built for moddability. Codebase now deprecated.
-  - [💻 Source (Repository)](https://github.com/Confoederatio/Project-1858---Ampersand-RP5) - :warning: This repository is now deprecated. You can open a private inquiry if you are interested in the source code.
+  - [📦 Releases](https://github.com/Confoederatio/RP5.2/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/RP5.2)
 - **Triumph & Tragedy II**: An open-source grand-strategy multiplayer game focused on the period between 1500-2092 with detailed demographic and combat systems with a particular focus on logistics and bottom-up economic modelling.
   - [📦 Releases](https://github.com/Confoederatio/TriumphAndTragedy/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
 
