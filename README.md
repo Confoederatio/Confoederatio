@@ -48,7 +48,7 @@ __Frameworks:__
 
 __Game Engines:__
 - **AnalyticalEngine**: Java/Nashorn-based engine for extending moddability to AOC3.
-  - [📦 Releases](https://github.com/Confoederatio/AnalyticalEngine/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/AnalyticalEngine/releases) | [🚂 Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3429582135)
+  - [📦 Releases](https://github.com/Confoederatio/AnalyticalEngine/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/AnalyticalEngine) | [🚂 Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3429582135)
 - **Gamechanger**: Node-based grand-strategy engine with JSON-based DSL modding support, primarily used for T&T1 and T&T2.
   - [📑 Documentation](https://docs.google.com/document/d/1uLfSMooByn0jtm6hfKK8rn8c9Qj9FCWv8JibFgOQwhc/edit?usp=sharing) | [💻 Source (Repository), Examples](https://github.com/Confoederatio/TriumphAndTragedy/tree/main/common)
   
