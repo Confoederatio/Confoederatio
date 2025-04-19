@@ -28,10 +28,12 @@ __Archives :__
   - [📚 Preservés numériques](https://discord.com/channels/548994743925997570/1087880811501600788)
 
 __Jeux de données :__
-- **Eoscala 1.0** : PIB (PPA) et autres estimations de l'activité économique de 10000BC-2022AD à une résolution de 5 minutes.
-  - [📝 Papier](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.0)
-- **Velkscala 0.5** : Estimations de la population de 10000BC-2023AD à une résolution de 5 minutes.
-  - [📝 Papier](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.5)
+- **Eoscala** : PIB (PPA) et autres estimations de l'activité économique de 10000BC-2022AD à une résolution de 5 minutes.
+  - [📝 Papier](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.2)
+- **Stadestér** : Une base de données géolocalisée de ~32000 villes de 3000BC à nos jours à des intervalles de population d'un an.
+  - [💻 Source (Repository)](https://github.com/Confoederatio/Stadester)
+- **Velkscala** : Estimations de la population de 10000BC-2023AD à une résolution de 5 minutes.
+  - [📝 Papier](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
 
 __Logiciels et outils :__
 - **Naissance GIS** : Un SIG 3D historique axé sur la souveraineté, la visualisation statistique et la manipulation de données.
