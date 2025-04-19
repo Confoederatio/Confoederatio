@@ -28,9 +28,9 @@ __Archives:__
   - [📚 Digital Preservés](https://discord.com/channels/548994743925997570/1087880811501600788)
 
 __Datasets:__
-- **Eoscala 1.0**: GDP (PPP) and other economic activity estimates from 10000BC-2022AD at 5-arcminute resolution.
+- **Eoscala**: GDP (PPP) and other economic activity estimates from 10000BC-2022AD at 5-arcminute resolution.
   - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.0)
-- **Velkscala 0.5**: Population estimates from 10000BC-2023AD at 5-arcminute resolution.
+- **Velkscala**: Population estimates from 10000BC-2023AD at 5-arcminute resolution.
   - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.5)
 
 __Software & Tooling:__
