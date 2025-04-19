@@ -28,10 +28,12 @@ __Archiv:__
   - [📚 Digitale Preservés](https://discord.com/channels/548994743925997570/1087880811501600788)
 
 __Datensätze:__
-- **Eoscala 1.0**: Schätzungen des BIP (KKP) und anderer wirtschaftlicher Aktivitäten von 10000 v. Chr. bis 2022 n. Chr. mit einer Auflösung von 5 Bogenminuten.
-  - [📝 Papier](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Raster](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.0)
-- **Velkscala 0.5**: Population estimates from 10000BC-2023AD at 5-arcminute resolution.
-  - [📝 Papier](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Raster](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.5)
+- **Eoscala**: Schätzungen des BIP (KKP) und anderer wirtschaftlicher Aktivitäten von 10000 v. Chr. bis 2022 n. Chr. mit einer Auflösung von 5 Bogenminuten.
+  - [📝 Papier](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala-Raster](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.2)
+- **Stadestér**: Eine geolokalisierte Datenbank mit ~32000 Städten von 3000 v. Chr. bis zur Gegenwart in 1-jährigen Bevölkerungsintervallen.
+  - [💻 Quelle (Repository)](https://github.com/Confoederatio/Stadester)
+- **Velkscala**: Bevölkerungsschätzungen von 10000 v. Chr. bis 2023 n. Chr. mit einer Auflösung von 5 Bogenminuten.
+  - [📝 Papier](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala-Raster](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
 
 __Software & Werkzeuge:__
 - **Naissance GIS**: Ein historisches 3D-GIS mit Schwerpunkt auf Souveränität, statistischer Visualisierung und Datenverarbeitung.
