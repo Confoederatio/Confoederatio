@@ -8,9 +8,9 @@
 <table>
   <tr>
     <td align = "left" colspan = 3>
-      <img src = "https://i.postimg.cc/TL8LF8Bt/cad-coat-of-arms-logo.png" height = "60">
-      <img src = "https://i.postimg.cc/XB4ZNfjF/crd-coat-of-arms-logo.png" height = "60">
-      <img src = "https://i.postimg.cc/bDQDjChp/ctd-coat-of-arms-logo.png" height = "60">
+      <img src = "https://i.postimg.cc/zBvCL87Y/cad-coat-of-arms-logo.png" height = "62">
+      <img src = "https://i.postimg.cc/3ND2B1zL/crd-coat-of-arms-logo.png" height = "62">
+      <img src = "https://i.postimg.cc/HxNQXRvc/ctd-coat-of-arms-logo.png" height = "62">
       <br><br>
     </td>
   </tr>
