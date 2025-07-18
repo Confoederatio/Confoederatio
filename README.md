@@ -35,7 +35,7 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
   - Socials: [🖌️ DeviantArt](https://www.deviantart.com/australiszero) | [💬 Discord](https://discord.com/channels/548994743925997570/964504182625296415)
 
       <details>
-        <summary>Art Projects. <kbd>↨ 2 Main Projects</kbd></summary>
+        <summary>Art Projects. <kbd>↨ 2 Main Projects</kbd></summary><br>
             
     __Digital Twins:__
     - **G-Earth/MC**: General projects related to automating the construction and rendering of digital twins in Minecraft.
