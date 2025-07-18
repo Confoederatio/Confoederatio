@@ -1,28 +1,42 @@
-Languages: [Benerian](https://github.com/Confoederatio/Confoederatio/blob/main/README_BN.md) | **English** | [French](https://github.com/Confoederatio/Confoederatio/blob/main/README_FR.md) | [German](https://github.com/Confoederatio/Confoederatio/blob/main/README_DE.md)
+<img src = "https://i.postimg.cc/xTp8p9jZ/confoederatio-text-01.png"><br>
 
-# Hello. We are Confoederatio.
+## **Languages:** [Benerian](https://github.com/Confoederatio/Confoederatio/blob/main/README_BN.md) | **English** | [French](https://github.com/Confoederatio/Confoederatio/blob/main/README_FR.md) | [German](https://github.com/Confoederatio/Confoederatio/blob/main/README_DE.md) &nbsp; &nbsp;-&nbsp; &nbsp; **Links:** [📝 Documentation](https://confoederatiodocs.info) | [🌐 Website](https://confoederatio.org)
 
-[📝 Documentation](https://confoederatiodocs.info) | [🌐 Website](https://confoederatio.org)
+![](https://i.postimg.cc/nLCvSdt4/confoederatio-project-chart-en.png)
 
-We're a reformed skeleton R&D studio that focuses mainly on scientific tooling, technical infrastructure, and complex strategy/simulation games. Since most of us are in university, we'll likely be scaling back some of our current projects to focus more on future, long-term investments into general frameworks, geostatistics, and UI work.
-
-### Current Members.
-- australis_
-- vistacitvs
-
-### Contact.
-
-E-mail: vf.confoederatio@gmail.com<br>
-Discord: [https://discord.gg/midnight](https://discord.gg/midnight-548994743925997570)
-
-<div align = "center">-</div>
-
-### CAD Projects.
+<table>
+  <tr>
+    <td align = "left" colspan = 3>
+      <img src = "https://i.postimg.cc/FKyWCxNh/cad-light-logo.png" height = "64"> &nbsp;
+      <img src = "https://i.postimg.cc/8CKkNXk2/crd-light-logo.png" height = "64"> &nbsp;
+      <img src = "https://i.postimg.cc/hjTYphY2/ctd-light-logo.png" height = "64"> &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="left"  valign = "top" colspan = "2">
+      <h1>Welcome to Confoederatio.</h1><br>We're a reformed skeleton R&D studio that focuses mainly on scientific tooling, technical infrastructure, and complex strategy/simulation games. Since most of us are in university, we'll likely be scaling back some of our current projects to focus more on future, long-term investments into general frameworks, geostatistics, and UI work.
+    </td>
+    <td align="right" width = "350px" valign = "top"> 
+      <h3>Current Members.</h3>• australis_<br>• vistacitvs<br>
+      <h3>Contact.</h3>
+      <div align = "left">
+        💬 Discord: <a href = "https://discord.gg/midnight-548994743925997570">discord.gg/midnight</a><br>
+        ✉️ E-mail: <a href = "mailto:vf.confoederatio@gmail.com">vf.confoederatio@gmail.com</a><br>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan = "3" valign = "top">
+      <details open>
+      <summary><h2>CAD Projects.</h2> (Confoederatio, Artistic Division)</summary>
 
 Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork used in Confoederatio projects. 
   - Socials: [🖌️ DeviantArt](https://www.deviantart.com/australiszero) | [💬 Discord](https://discord.com/channels/548994743925997570/964504182625296415)
 
-### CRD Projects.
+      </details>
+      <details open>
+      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division)</summary>
+
 __Archives:__
 - **Preservés des Confoederatio**: Digital and physical archives of ~4000 historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
   - [📚 Digital Preservés](https://discord.com/channels/548994743925997570/1087880811501600788)
@@ -40,8 +54,10 @@ __Software & Tooling:__
   - [📦 Releases](https://github.com/Confoederatio/Naissance/releases) | [:computer: Source (Repository)](https://github.com/Confoederatio/Naissance)
 - **Project Humanity:** A prototype long-term SD/CLD-based ABM and cognitive architecture for personality retention and dependent memory in cognition and decision-making.
   - [📝 Paper (Working Technical Draft)](https://docs.google.com/document/d/1pmYnD0pVYnxatR96WDLCmsKMFMa_4ROOBp_nt2eg8hY/edit?usp=sharing) | [🧠 Head Model](https://drive.google.com/file/d/1nligSIH0zylj2unhM5-ir3MLNQuIjUvJ/view?usp=sharing) | [:bug: Tail Model](https://drive.google.com/file/d/1w4x3bH_XQqSvrUZIVc_Jn-eNEYt5R90s/view?usp=sharing)
+      </details>
+      <details open>
+      <summary><h2>CTD Projects.</h2> (Confoederatio, Technical Division)</summary>
 
-### CTD Projects.
 __Frameworks:__
 - **Scriptly**: Dual-purpose software engine/template system featuring both CLI and UI components for bootstrapping Confoederatio applications to.
   - [💻 Source (Repository)](https://github.com/Confoederatio/Scriptly) 
@@ -66,7 +82,7 @@ __Grand-strategy Games/Mods:__
 __Software & Tooling:__
 - **Ampersand Mod Creator:** A mod creator for Triumph & Tragedy.
   - [📦 Releases](https://github.com/Confoederatio/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Ampersand-Mod-Creator)
-
----
-
-<img src = "https://i.postimg.cc/FKyWCxNh/cad-light-logo.png" height = "64"> <img src = "https://i.postimg.cc/8CKkNXk2/crd-light-logo.png" height = "64"> <img src = "https://i.postimg.cc/hjTYphY2/ctd-light-logo.png" height = "64">
+      </details>
+    </td>
+  </tr>
+</table>
