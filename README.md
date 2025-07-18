@@ -30,14 +30,14 @@
   <tr>
     <td colspan = "3" valign = "top">
       <details open>
-      <summary><h2>CAD Projects.</h2> (Confoederatio, Artistic Division)</summary>
+      <summary><h2>CAD Projects.</h2> (Confoederatio, Artistic Division) <kbd>↨ 3 Main Projects</kbd></summary>
 
 Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork used in Confoederatio projects. 
   - Socials: [🖌️ DeviantArt](https://www.deviantart.com/australiszero) | [💬 Discord](https://discord.com/channels/548994743925997570/964504182625296415)
 
       </details>
-      <details open>
-      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division)</summary>
+      <details>
+      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 7 Main Projects</kbd></summary>
 
 __Archives:__
 - **Preservés des Confoederatio**: Digital and physical archives of ~4000 historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
@@ -57,8 +57,8 @@ __Software & Tooling:__
 - **Project Humanity:** A prototype long-term SD/CLD-based ABM and cognitive architecture for personality retention and dependent memory in cognition and decision-making.
   - [📝 Paper (Working Technical Draft)](https://docs.google.com/document/d/1pmYnD0pVYnxatR96WDLCmsKMFMa_4ROOBp_nt2eg8hY/edit?usp=sharing) | [🧠 Head Model](https://drive.google.com/file/d/1nligSIH0zylj2unhM5-ir3MLNQuIjUvJ/view?usp=sharing) | [:bug: Tail Model](https://drive.google.com/file/d/1w4x3bH_XQqSvrUZIVc_Jn-eNEYt5R90s/view?usp=sharing)
       </details>
-      <details open>
-      <summary><h2>CTD Projects.</h2> (Confoederatio, Technical Division)</summary>
+      <details>
+      <summary><h2>CTD Projects.</h2> (Confoederatio, Technical Division) <kbd>↨ 16 Main Projects</kbd></summary>
 
 __Frameworks:__
 - **Scriptly**: Dual-purpose software engine/template system featuring both CLI and UI components for bootstrapping Confoederatio applications to.
