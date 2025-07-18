@@ -64,7 +64,7 @@ __Frameworks:__
 - **Scriptly Templates**: Bootstrap CLI/UI templates featuring Universal Framework used for scaffolding Confoederatio applications off of.
   - [💻 Source (Repository)](https://github.com/Confoederatio/Scriptly) 
 - **Universal Framework (UF)**: General-purpose library for developer ease of use and extended functionality across Confoederatio projects.
-  - [💻 Source (Repository)](https://github.com/Confoederatio/UniversalFramework)
+  - [📦 Releases](https://github.com/Confoederatio/UniversalFramework/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/UniversalFramework)
   - **Vercengen**: A sublibrary of UF that manages our frontend work.
     - [💻 Source (Repository)](https://github.com/Confoederatio/Vercengen)
 
