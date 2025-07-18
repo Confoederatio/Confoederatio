@@ -61,10 +61,12 @@ __Software & Tooling:__
       <summary><h2>CTD Projects.</h2> (Confoederatio, Technical Division) <kbd>↨ 16 Main Projects</kbd></summary>
 
 __Frameworks:__
-- **Scriptly**: Dual-purpose software engine/template system featuring both CLI and UI components for bootstrapping Confoederatio applications to.
+- **Scriptly Templates**: Bootstrap CLI/UI templates featuring Universal Framework used for scaffolding Confoederatio applications off of.
   - [💻 Source (Repository)](https://github.com/Confoederatio/Scriptly) 
 - **Universal Framework (UF)**: General-purpose library for developer ease of use and extended functionality across Confoederatio projects.
   - [💻 Source (Repository)](https://github.com/Confoederatio/UniversalFramework)
+  - **Vercengen**: A sublibrary of UF that manages our frontend work.
+    - [💻 Source (Repository)](https://github.com/Confoederatio/Vercengen)
 
 __Game Engines:__
 - **AnalyticalEngine**: Java/Nashorn-based engine for extending moddability to AOC3.
@@ -84,6 +86,8 @@ __Grand-strategy Games/Mods:__
 __Software & Tooling:__
 - **Ampersand Mod Creator:** A mod creator for Triumph & Tragedy.
   - [📦 Releases](https://github.com/Confoederatio/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Ampersand-Mod-Creator)
+- **Scriptly IDE:** An embeddable visual IDE with block-based/node-based/text editing.
+  - [📦 Releases](https://github.com/Confoederatio/Scriptly/releases/) | [💻 Source (Repository)](https://github.com/Confoederatio/Scriptly)
       </details>
     </td>
   </tr>
