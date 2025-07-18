@@ -7,9 +7,9 @@
 <table>
   <tr>
     <td align = "left" colspan = 3>
-      <img src = "https://i.postimg.cc/FKyWCxNh/cad-light-logo.png" height = "62">
-      <img src = "https://i.postimg.cc/8CKkNXk2/crd-light-logo.png" height = "62">
-      <img src = "https://i.postimg.cc/hjTYphY2/ctd-light-logo.png" height = "62">
+      <img src = "https://i.postimg.cc/FKyWCxNh/cad-light-logo.png" height = "60">
+      <img src = "https://i.postimg.cc/8CKkNXk2/crd-light-logo.png" height = "60">
+      <img src = "https://i.postimg.cc/hjTYphY2/ctd-light-logo.png" height = "60">
     </td>
   </tr>
   <tr>
