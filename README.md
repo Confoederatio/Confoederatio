@@ -46,6 +46,8 @@ __Archives:__
 __Datasets:__
 - **Eoscala**: GDP (PPP) and other economic activity estimates from 10000BC-2022AD at 5-arcminute resolution.
   - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.2)
+- **Sehistoir:** A vector database of census/population subadministrative divisions at a global level from 1800AD to the Present at 1-year intervals.
+  - [📑 Documentation](https://confoederatiodocs.info/en/CRD/Sehistoir)
 - **Stadestér**: A geolocated database of ~32000 cities from 3000BC to the Present at 1-year population intervals.
   - [💻 Source (Repository)](https://github.com/Confoederatio/Stadester)
 - **Velkscala**: Population estimates from 10000BC-2023AD at 5-arcminute resolution.
