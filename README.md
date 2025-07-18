@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td align="left"  valign = "top" colspan = "2">
-      <h1>Welcome to Confoederatio.</h1><br>We're a reformed skeleton R&D studio that focuses mainly on scientific tooling, technical infrastructure, and complex strategy/simulation games. Since most of us are in university, we'll likely be scaling back some of our current projects to focus more on future, long-term investments into general frameworks, geostatistics, and UI work.
+      <h1>Welcome to Confoederatio.</h1>We're a skeleton R&D studio that focuses mainly on scientific tooling, technical infrastructure, and complex strategy/simulation games. Since most of us are in university, we'll likely be scaling back some of our current projects to focus more on future, long-term investments into general frameworks, geostatistics, and UI work.
     </td>
     <td align="right" width = "350px" valign = "top"> 
       <h3>Current Members.</h3>• australis_<br>• vistacitvs<br>
