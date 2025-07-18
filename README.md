@@ -3,7 +3,7 @@
 
 ### **Languages:** [Benerian](https://github.com/Confoederatio/Confoederatio/blob/main/README_BN.md) | **English** | [French](https://github.com/Confoederatio/Confoederatio/blob/main/README_FR.md) | [German](https://github.com/Confoederatio/Confoederatio/blob/main/README_DE.md) &nbsp; &nbsp;-&nbsp; &nbsp; **Links:** [📝 Documentation](https://confoederatiodocs.info) | [🌐 Website](https://confoederatio.org)
 
-![Confoederatio Projects and Dependencies](https://i.postimg.cc/nLCvSdt4/confoederatio-project-chart-en.png)
+![](https://i.postimg.cc/nLCvSdt4/confoederatio-project-chart-en.png)
 
 <table>
   <tr>
