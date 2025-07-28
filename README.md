@@ -75,7 +75,7 @@ __Frameworks:__
   - [💻 Source (Repository)](https://github.com/Confoederatio/Scriptly) 
 - **Universal Framework (UF)**: General-purpose library for developer ease of use and extended functionality across Confoederatio projects.
   - [📦 Releases](https://github.com/Confoederatio/UniversalFramework/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/UniversalFramework)
-  - **Vercengen**: A sublibrary of UF that manages our frontend work.
+  - **Vercengen**: An imperative, state-driven software engine for desktop/web apps, similar to an extendable JS-driven version of ImGui.
     - [💻 Source (Repository)](https://github.com/Confoederatio/Vercengen)
 
 __Game Engines:__
