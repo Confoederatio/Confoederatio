@@ -45,7 +45,7 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
       </details>
 </details>
       <details>
-      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 7 Main Projects</kbd></summary>
+      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 8 Main Projects</kbd></summary>
 
 __Archives:__
 - **Preservés des Confoederatio**: Digital and physical archives of ~4000 historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
@@ -62,6 +62,8 @@ __Datasets:__
   - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
 
 __Software & Tooling:__
+- **Constele**: 3D, asynchronous editor and visualiser for geospatial dataflows.
+  - [📦 Releases](https://github.com/Confoederatio/Constele-Red/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Constele-Red)
 - **Naissance GIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
   - [📦 Releases](https://github.com/Confoederatio/Naissance/releases) | [:computer: Source (Repository)](https://github.com/Confoederatio/Naissance)
 - **Project Humanity:** A prototype long-term SD/CLD-based ABM and cognitive architecture for personality retention and dependent memory in cognition and decision-making.
