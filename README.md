@@ -87,7 +87,7 @@ __Game Engines:__
   - [📑 Documentation](https://docs.google.com/document/d/1uLfSMooByn0jtm6hfKK8rn8c9Qj9FCWv8JibFgOQwhc/edit?usp=sharing) | [💻 Source (Repository), Examples](https://github.com/Confoederatio/TriumphAndTragedy/tree/main/common)
   
 __Grand-strategy Games/Mods:__
-- **11:59**: A Cold War mod for AOC2/AOC3. You can find separate game versions below:
+- **11:59**: A Cold War total overhaul for AOC2/AOC3. You can find separate game versions below:
   - AOC2: [💻 Source (ModDB)](https://www.moddb.com/mods/1159-a-cold-war-mod)
   - AOC3: [💻 Source (Repository)](https://github.com/Confoederatio/AnalyticalEngine/tree/main/src/mods/11.59)
 - **Triumph & Tragedy I**: A simple open-source multiplayer grand-strategy game and fully-automated NRP built for moddability.
