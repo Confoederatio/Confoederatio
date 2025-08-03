@@ -62,7 +62,7 @@ __Datasets:__
   - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
 
 __Software & Tooling:__
-- **Constele**: 3D, asynchronous editor and visualiser for geospatial dataflows.
+- **Constele Red**: 3D, asynchronous editor and visualiser for geospatial dataflows.
   - [📦 Releases](https://github.com/Confoederatio/Constele-Red/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Constele-Red)
 - **Naissance GIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
   - [📦 Releases](https://github.com/Confoederatio/Naissance/releases) | [:computer: Source (Repository)](https://github.com/Confoederatio/Naissance)
