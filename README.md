@@ -22,7 +22,7 @@
       <h3>Contact.</h3>
       <div align = "left">
         💬 Discord: <a href = "https://discord.gg/midnight-548994743925997570">discord.gg/midnight</a><br>
-        ✉️ E-mail: <a href = "mailto:vf.confoederatio@proton.me">vf.confoederatio@gmail.com</a><br>
+        ✉️ E-mail: <a href = "mailto:vf.confoederatio@proton.me">vf.confoederatio@proton.me</a><br>
       </div>
     </td>
   </tr>
