@@ -7,9 +7,9 @@
 <table>
   <tr>
     <td align = "left" colspan = 3>
-      <img src = "https://i.postimg.cc/zBvCL87Y/cad-coat-of-arms-logo.png" height = "60">
-      <img src = "https://i.postimg.cc/3ND2B1zL/crd-coat-of-arms-logo.png" height = "60">
-      <img src = "https://i.postimg.cc/HxNQXRvc/ctd-coat-of-arms-logo.png" height = "60">
+      <img src = "https://i.postimg.cc/zBvCL87Y/cad-coat-of-arms-logo.png" height = "58">
+      <img src = "https://i.postimg.cc/3ND2B1zL/crd-coat-of-arms-logo.png" height = "58">
+      <img src = "https://i.postimg.cc/HxNQXRvc/ctd-coat-of-arms-logo.png" height = "58">
       <br>
     </td>
   </tr>
