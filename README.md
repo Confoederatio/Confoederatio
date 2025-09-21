@@ -1,6 +1,6 @@
 <img src = "https://i.postimg.cc/xTp8p9jZ/confoederatio-text-01.png">
 
-### **Languages:** [Benerian](https://github.com/Confoederatio/Confoederatio/blob/main/README_BN.md) | **English** | [French](https://github.com/Confoederatio/Confoederatio/blob/main/README_FR.md) | [German](https://github.com/Confoederatio/Confoederatio/blob/main/README_DE.md) &nbsp; &nbsp;-&nbsp; &nbsp; **Links:** [📝 Documentation](https://confoederatiodocs.info) | [🌐 Website](https://confoederatio.org)
+### **Languages:** **English** | [French](https://github.com/Confoederatio/Confoederatio/blob/main/README_FR.md) | [German](https://github.com/Confoederatio/Confoederatio/blob/main/README_DE.md) &nbsp; &nbsp;-&nbsp; &nbsp; **Links:** [📝 Documentation](https://confoederatiodocs.info) | [🌐 Website](https://confoederatio.org)
 
 ![](https://i.postimg.cc/4yJgSMmW/confoederatio-org-chart.png)
 
