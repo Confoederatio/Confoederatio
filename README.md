@@ -21,7 +21,7 @@
       <h3>Current Members.</h3>• australis_<br>• vistacitvs<br>
       <h3>Contact.</h3>
       <div align = "left">
-        💬 Discord: <a href = "https://discord.gg/midnight-548994743925997570">discord.gg/midnight</a><br>
+        💬 Discord: <a href = "https://discord.gg/midnight-548994743925997570">https://discord.gg/midnight-548994743925997570</a><br>
         ✉️ E-mail: <a href = "mailto:vf.confoederatio@proton.me">vf.confoederatio@proton.me</a><br>
       </div>
     </td>
