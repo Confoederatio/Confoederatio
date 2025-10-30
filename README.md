@@ -77,8 +77,8 @@ __Frameworks:__
   - [💻 Source (Repository)](https://github.com/Confoederatio/Scriptly) 
 - **Universal Framework (UF)**: General-purpose library for developer ease of use and extended functionality across Confoederatio projects.
   - [📦 Releases](https://github.com/Confoederatio/UniversalFramework/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/UniversalFramework)
-  - **Vercengen**: An imperative, state-driven software engine for desktop/web apps, similar to an extendable JS-driven version of ImGui.
-    - [💻 Source (Repository)](https://github.com/Confoederatio/Vercengen)
+  - **Vercengen**: A state-driven software engine for desktop/web apps in which UI is a subset of state, removing frontend work entirely.
+    - [📑 Documentation](https://confoederatio.org/Vercengen/) | [💻 Source (Repository)](https://github.com/Confoederatio/Vercengen)
 
 __Game Engines:__
 - **AnalyticalEngine**: Java/Nashorn-based game engine built on top of AOC3/LJWGL.
