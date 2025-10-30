@@ -57,7 +57,7 @@ __Datasets:__
 - **Sehistoir:** A vector database of census/population subadministrative divisions at a global level from 1800AD to the Present at 1-year intervals.
   - [📑 Documentation](https://confoederatiodocs.info/en/CRD/Sehistoir)
 - **Stadestér**: A geolocated database of ~41000 cities from 3000BC to the Present at 1-year population intervals.
-  - [📝 Paper](https://confoederatio.org/papers/Stadest%C3%A9r%201.0%20-%20A%20Global%20Database%20of%2041000%2B%20Cities%20From%203000BC%20to%20the%20Present.pdf) | [💻 Source (Repository)](https://github.com/Confoederatio/Stadester)
+  - [📝 Paper](https://confoederatio.org/papers/Stadest%C3%A9r%201.0%20-%20A%20Global%20Database%20of%2041000%2B%20Cities%20From%203000BC%20to%20the%20Present.pdf) | [👥 Stadestér 1.0 Rasters, JSON (Zenodo)](https://doi.org/10.5281/zenodo.17172244)] | [💻 Source (Repository)](https://github.com/Confoederatio/Stadester)
 - **Velkscala**: Population estimates from 10000BC-2023AD at 5-arcminute resolution.
   - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
 
