@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td align="left" valign = "top" colspan = "2">
-      <h1>Welcome to Confoederatio.</h1>We're a skeleton R&D studio that focuses mainly on scientific tooling, technical infrastructure, and complex strategy/simulation games. If you're looking for 11:59, Analytical Engine, Gamechanger, Naissance GIS, Triumph & Tragedy, Vercengen, or any of our academic databases, you're in the right place. Due to our wide-ranging domain, we often focus more on foundational infrastructure that enables us to achieve higher operational throughputs.<br><br>In other words, we make tools that make tools that make data and games. Only projects that are in an operable/released state are listed here.<br>&nbsp;
+      <h1>Welcome to Confoederatio.</h1>We're a skeleton data science studio that focuses mainly on research tooling, technical infrastructure, and complex strategy/simulation games. If you're looking for 11:59, Analytical Engine, Gamechanger, Naissance GIS, Triumph & Tragedy, Vercengen, or any of our academic databases, you're in the right place. Due to our wide-ranging domain, we often focus more on foundational infrastructure that enables us to achieve higher operational throughputs.<br><br>In other words, we make tools that make tools that make data and games. Only projects that are in an operable/released state are listed here.<br>&nbsp;
     </td>
     <td align="right" width = "350px" valign = "top"> 
       <h3>Current Members.</h3>• australis_<br>• vistacitvs<br>
