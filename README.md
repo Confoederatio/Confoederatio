@@ -22,7 +22,7 @@
       <h3>Contact.</h3>
       <div align = "left">
         💬 Discord: <a href = "https://discord.gg/midnight-548994743925997570">https://discord.gg/midnight-548994743925997570</a><br>
-        ✉️ E-mail: <a href = "mailto:vf.confoederatio@proton.me">vf.confoederatio@proton.me</a><br>
+        ✉️ E-mail: <a href = "mailto:vf@confoederatio.org">vf@confoederatio.org</a><br>
       </div>
     </td>
   </tr>
@@ -57,7 +57,7 @@ __Datasets:__
 - **Sehistoir:** A vector database of census/population subadministrative divisions at a global level from 1800AD to the Present at 1-year intervals.
   - [📑 Documentation](https://confoederatiodocs.info/en/CRD/Sehistoir)
 - **Stadestér**: A geolocated database of ~32000 cities from 3000BC to the Present at 1-year population intervals.
-  - [💻 Source (Repository)](https://github.com/Confoederatio/Stadester)
+  - [📝 Paper](confoederatio.org/papers/Stadestér 1.0 - A Global Database of 41000%2B Cities From 3000BC to the Present.pdf) | [💻 Source (Repository)](https://github.com/Confoederatio/Stadester)
 - **Velkscala**: Population estimates from 10000BC-2023AD at 5-arcminute resolution.
   - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
 
