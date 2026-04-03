@@ -1,4 +1,4 @@
-<a href = "https://confoederatio.org"><img src = "https://i.postimg.cc/XqLmgJRJ/confoederatio26-banner.png" width = "100%"></a>
+<a href = "https://confoederatio.org" target = "_blank"><img src = "https://i.postimg.cc/XqLmgJRJ/confoederatio26-banner.png" width = "100%"></a>
 
 ---
 
