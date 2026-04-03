@@ -13,7 +13,8 @@
   </tr>
   <tr>
     <td align="left" valign = "top" colspan = "2">
-      <h1>Welcome to Confoederatio.</h1>We're a skeleton data science studio that focuses mainly on research tooling, technical infrastructure, and complex strategy/simulation games. If you're looking for 11:59, Analytical Engine, Gamechanger, Naissance GIS, Triumph & Tragedy, Vercengen, or any of our academic databases, you're in the right place. Due to our wide-ranging domain, we often focus more on foundational infrastructure that enables us to achieve higher operational throughputs.<br><br>In other words, we make tools that make tools that make data and games. Only projects that are in an operable/released state are listed here.<br>&nbsp;
+      <h1>Welcome to Confoederatio.</h1>
+      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or our legacy Games Division (run by CTD), you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.<br>&nbsp;
     </td>
     <td align="right" width = "350px" valign = "top"> 
       <h3>Core Members.</h3>
