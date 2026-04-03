@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td align = "left" colspan = 3>
+    <td align = "center" colspan = 3>
       <img src = "https://i.postimg.cc/zBvCL87Y/cad-coat-of-arms-logo.png" width = "32%">
       <img src = "https://i.postimg.cc/3ND2B1zL/crd-coat-of-arms-logo.png" width = "32%">
       <img src = "https://i.postimg.cc/HxNQXRvc/ctd-coat-of-arms-logo.png" width = "32%">
@@ -16,7 +16,9 @@
       <h1>Welcome to Confoederatio.</h1>We're a skeleton data science studio that focuses mainly on research tooling, technical infrastructure, and complex strategy/simulation games. If you're looking for 11:59, Analytical Engine, Gamechanger, Naissance GIS, Triumph & Tragedy, Vercengen, or any of our academic databases, you're in the right place. Due to our wide-ranging domain, we often focus more on foundational infrastructure that enables us to achieve higher operational throughputs.<br><br>In other words, we make tools that make tools that make data and games. Only projects that are in an operable/released state are listed here.<br>&nbsp;
     </td>
     <td align="right" width = "350px" valign = "top"> 
-      <h3>Current Members.</h3>• australis_<br>• vistacitvs<br>
+      <h3>Core Members.</h3>
+      • Aust Kätzchen (CRD)<br>
+      • Vis Tacitus (CTD)<br>
       <h3>Contact.</h3>
       <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">Discord 💬</a><br>
       <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">E-mail ✉️</a><br>
