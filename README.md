@@ -18,8 +18,8 @@
     <td align="right" width = "350px" valign = "top"> 
       <h3>Current Members.</h3>• australis_<br>• vistacitvs<br>
       <h3>Contact.</h3>
-      💬 Discord: <a href = "https://discord.gg/midnight-548994743925997570">https://discord.gg/midnight-548994743925997570</a><br>
-      ✉️ E-mail: <a href = "mailto:vf@confoederatio.org">vf@confoederatio.org</a><br>
+      <a href = "https://discord.gg/midnight-548994743925997570">https://discord.gg/midnight-548994743925997570</a> Discord 💬<br>
+      <a href = "mailto:vf@confoederatio.org">vf@confoederatio.org</a> E-mail ✉️<br>
     </td>
   </tr>
   <tr>
