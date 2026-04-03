@@ -14,6 +14,8 @@
   <tr>
     <td align="left" valign = "top" colspan = "2">
       <h1>Welcome to Confoederatio.</h1>
+      <a href = "https://confoederatio.org"><b>Website</b></a> | <a href = "https://confoederatiodocs.info/"><b>Documentation</b></a>
+      <br><br>
       We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or our legacy Games Division (run by CTD), you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.<br>&nbsp;
     </td>
     <td align="right" width = "350px" valign = "top"> 
@@ -23,6 +25,7 @@
       <h3>Contact.</h3>
       <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">Discord 💬</a><br>
       <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">E-mail ✉️</a><br>
+      <a href = "https://zenodo.org/communities/confoederatio/" title = "Zenodo: Confoederatio">Zenodo 🧪</a>
     </td>
   </tr>
   <tr>
@@ -37,68 +40,64 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
         <summary>Art Projects. <kbd>↨ 2 Main Projects</kbd></summary><br>
             
     __Digital Twins:__
-    - **G-Earth/MC**: General projects related to automating the construction and rendering of digital twins in Minecraft.
+    - **G-Earth/MC**: General projects related to automating the construction and rendering of city geomeetries in Minecraft.
       - [📝 Documentation](https://confoederatiodocs.info/en/CAD/GEarth_MC) | [Osaka 1:1, 36km^2](https://drive.google.com/file/d/1Zc-bbopWoFYGtOOSQZjeNbFmUtC_QNcr/view?usp=sharing) | [Vienna 1:1, 16km^2](https://drive.google.com/file/d/1-GFTi4VG853RUEYEoSaFcJoYNAJfGeBs/view?usp=sharing)
     - **Project 1911/1912**: Manual projects to reconstruct the Low Countries at 1:1 scale in Minecraft.
             
       </details>
 </details>
       <details>
-      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 8 Main Projects</kbd></summary>
+      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 7 Main Projects</kbd></summary>
 
 __Archives:__
 - **Preservés des Confoederatio**: Digital and physical archives of ~4000 historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
   - [📚 Digital Preservés](https://discord.com/channels/548994743925997570/1087880811501600788)
 
-__Datasets:__
+__Datasets (Histmap):__
 - **Eoscala**: GDP (PPP) and other economic activity estimates from 10000BC-2022AD at 5-arcminute resolution.
-  - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.2)
+  - [📝 Paper](https://github.com/ConfoederatioVF/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/ConfoederatioVF/Eoscala-Velkscala/tree/main/eoscala_1.2)
 - **Sehistoir:** A vector database of census/population subadministrative divisions at a global level from 1800AD to the Present at 1-year intervals.
   - [📑 Documentation](https://confoederatiodocs.info/en/CRD/Sehistoir)
 - **Stadestér**: A geolocated database of ~41000 cities from 3000BC to the Present at 1-year population intervals.
-  - [📝 Paper](https://confoederatio.org/papers/Stadest%C3%A9r%201.0%20-%20A%20Global%20Database%20of%2041000%2B%20Cities%20From%203000BC%20to%20the%20Present.pdf) | [👥 Stadestér 1.0 Rasters, JSON (Zenodo)](https://doi.org/10.5281/zenodo.17172244)] | [💻 Source (Repository)](https://github.com/Confoederatio/Stadester)
+  - [📝 Paper](https://confoederatio.org/papers/Stadest%C3%A9r%201.0%20-%20A%20Global%20Database%20of%2041000%2B%20Cities%20From%203000BC%20to%20the%20Present.pdf) | [👥 Stadestér 1.0 Rasters, JSON (Zenodo)](https://doi.org/10.5281/zenodo.17172244)] | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Stadester)
 - **Velkscala**: Population estimates from 10000BC-2023AD at 5-arcminute resolution.
-  - [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
+  - [📝 Paper](https://github.com/ConfoederatioVF/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/ConfoederatioVF/Eoscala-Velkscala/tree/main/velkscala_0.7)
+ 
+__Datasets & Livemap:__
+- **Collation:** A live OSINT portal/dashboard for Naissance focused on GEOINT, ORBATs, news aggregation, as well as logistics and supply chains.
+  - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Collation)
 
 __Software & Tooling:__
-- **Constele Red**: A 3D, asynchronous editor and visualiser for heavy geospatial dataflows.
-  - [📦 Releases](https://github.com/Confoederatio/Constele-Red/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Constele-Red)
 - **Naissance GIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
-  - [📦 Releases](https://github.com/Confoederatio/Naissance/releases) | [:computer: Source (Repository)](https://github.com/Confoederatio/Naissance)
-- **Project Humanity:** A prototype long-term SD/CLD-based ABM and cognitive architecture for personality retention and dependent memory in cognition and decision-making.
-  - [📝 Paper (Working Technical Draft)](https://docs.google.com/document/d/1pmYnD0pVYnxatR96WDLCmsKMFMa_4ROOBp_nt2eg8hY/edit?usp=sharing) | [🧠 Head Model](https://drive.google.com/file/d/1nligSIH0zylj2unhM5-ir3MLNQuIjUvJ/view?usp=sharing) | [:bug: Tail Model](https://drive.google.com/file/d/1w4x3bH_XQqSvrUZIVc_Jn-eNEYt5R90s/view?usp=sharing)
+  - [📦 Releases](https://github.com/ConfoederatioVF/Naissance/releases) | [:computer: Source (Repository)](https://github.com/ConfoederatioVF/Naissance)
       </details>
       <details>
-      <summary><h2>CTD Projects.</h2> (Confoederatio, Technical Division) <kbd>↨ 16 Main Projects</kbd></summary>
+      <summary><h2>CTD Projects.</h2> (Confoederatio, Technical Division) <kbd>↨ 8 Main Projects</kbd></summary>
 
 __Frameworks:__
-- **Scriptly Templates**: Bootstrap CLI/UI templates featuring Universal Framework used for scaffolding Confoederatio applications off of.
-  - [💻 Source (Repository)](https://github.com/Confoederatio/Scriptly) 
-- **Universal Framework (UF)**: General-purpose library for developer ease of use and extended functionality across Confoederatio projects.
-  - [📦 Releases](https://github.com/Confoederatio/UniversalFramework/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/UniversalFramework)
   - **Vercengen**: A state-driven software engine for desktop/web apps in which UI is a subset of state, removing frontend work entirely.
-    - [📑 Documentation](https://confoederatio.org/Vercengen/) | [💻 Source (Repository)](https://github.com/Confoederatio/Vercengen)
+    - [📑 Documentation](https://confoederatio.org/Vercengen/) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Vercengen)
 
 __Game Engines:__
 - **AnalyticalEngine**: Java/Nashorn-based game engine built on top of AOC3/LJWGL.
-  - [📑 Documentation](https://docs.google.com/document/d/1cgZIJyXivPmHRlPZBEmlv65Aypafa_xPVOjqJDaS6Sg/edit?usp=sharing) | [📦 Releases](https://github.com/Confoederatio/AnalyticalEngine/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/AnalyticalEngine) | [🚂 Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3429582135)
+  - [📑 Documentation](https://docs.google.com/document/d/1cgZIJyXivPmHRlPZBEmlv65Aypafa_xPVOjqJDaS6Sg/edit?usp=sharing) | [📦 Releases](https://github.com/ConfoederatioVF/AnalyticalEngine/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/AnalyticalEngine) | [🚂 Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3429582135)
 - **Gamechanger**: Node-based grand-strategy engine with JSON-based DSL modding support, primarily used for T&T1 and T&T2.
-  - [📑 Documentation](https://docs.google.com/document/d/1uLfSMooByn0jtm6hfKK8rn8c9Qj9FCWv8JibFgOQwhc/edit?usp=sharing) | [💻 Source (Repository), Examples](https://github.com/Confoederatio/TriumphAndTragedy/tree/main/common)
+  - [📑 Documentation](https://docs.google.com/document/d/1uLfSMooByn0jtm6hfKK8rn8c9Qj9FCWv8JibFgOQwhc/edit?usp=sharing) | [💻 Source (Repository), Examples](https://github.com/ConfoederatioVF/TriumphAndTragedy/tree/main/common)
   
 __Grand-strategy Games/Mods:__
 - **11:59**: A Cold War total overhaul for AOC2/AOC3. You can find separate game versions below:
   - AOC2: [💻 Source (ModDB)](https://www.moddb.com/mods/1159-a-cold-war-mod)
-  - AOC3: [💻 Source (Repository)](https://github.com/Confoederatio/AnalyticalEngine/tree/main/src/mods/11.59)
+  - AOC3: [💻 Source (Repository)](https://github.com/ConfoederatioVF/AnalyticalEngine/tree/main/src/mods/11.59)
 - **Triumph & Tragedy I**: A simple open-source multiplayer grand-strategy game and fully-automated NRP built for moddability.
-  - [📦 Releases](https://github.com/Confoederatio/RP5.2/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/RP5.2)
+  - [📦 Releases](https://github.com/ConfoederatioVF/RP5.2/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/RP5.2Legacy)
 - **Triumph & Tragedy II**: An open-source grand-strategy multiplayer game focused on the period between 1500-2092 with detailed demographic and combat systems with a particular focus on logistics and bottom-up economic modelling.
-  - [📦 Releases](https://github.com/Confoederatio/TriumphAndTragedy/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
+  - [📦 Releases](https://github.com/ConfoederatioVF/TriumphAndTragedy/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/TriumphAndTragedy) | [📹 Trailer](https://www.youtube.com/watch?v=JGFcmBfLEp0)
 
 __Software & Tooling:__
 - **Ampersand Mod Creator:** A mod creator for Triumph & Tragedy.
-  - [📦 Releases](https://github.com/Confoederatio/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/Confoederatio/Ampersand-Mod-Creator)
+  - [📦 Releases](https://github.com/ConfoederatioVF/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Ampersand-Mod-Creator)
 - **Scriptly IDE:** An embeddable visual IDE with block-based/node-based/text editing.
-  - [📦 Releases](https://github.com/Confoederatio/Scriptly/releases/) | [💻 Source (Repository)](https://github.com/Confoederatio/Scriptly)
+  - [📦 Releases](https://github.com/ConfoederatioVF/Scriptly/releases/) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Scriptly)
       </details>
     </td>
   </tr>
