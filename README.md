@@ -1,4 +1,4 @@
-<img src = "https://i.postimg.cc/XqLmgJRJ/confoederatio26-banner.png" width = "100%">
+<a href = "https://confoederatio.org"><img src = "https://i.postimg.cc/XqLmgJRJ/confoederatio26-banner.png" width = "100%"></a>
 
 ---
 
@@ -18,8 +18,8 @@
     <td align="right" width = "350px" valign = "top"> 
       <h3>Current Members.</h3>• australis_<br>• vistacitvs<br>
       <h3>Contact.</h3>
-      <a href = "https://discord.gg/midnight-548994743925997570">https://discord.gg/midnight-548994743925997570</a> Discord 💬<br>
-      <a href = "mailto:vf@confoederatio.org">vf@confoederatio.org</a> E-mail ✉️<br>
+      <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">Discord 💬</a><br>
+      <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">E-mail ✉️</a><br>
     </td>
   </tr>
   <tr>
