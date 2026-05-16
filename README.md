@@ -1,4 +1,4 @@
-<a href = "https://confoederatio.org" target = "_blank"><img src = "https://i.postimg.cc/XqLmgJRJ/confoederatio26-banner.png" width = "100%"></a>
+<a href = "https://confoederatio.org"><img src = "https://i.postimg.cc/XqLmgJRJ/confoederatio26-banner.png" width = "100%"></a>
 
 ---
 
@@ -16,21 +16,21 @@
       <h1>Welcome to Confoederatio.</h1>
       <a href = "https://confoederatio.org"><b>Website</b></a> | <a href = "https://confoederatiodocs.info/"><b>Documentation</b></a>
       <br><br>
-      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or our legacy Games Division (run by CTD), you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.<br>&nbsp;
+      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or our legacy Games Division (run by CTD), you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.
+      <br><br>
+      <b>Clone the world.</b>
     </td>
     <td align="right" width = "350px" valign = "top"> 
       <h3>Core Members.</h3>
-      • Aust Kätzchen (CRD)<br>
-      • Vis Tacitus (CTD)<br>
+      • Aust Kätzchen (CRD, Head)<br>
+      • Vis Tacitus (CTD, Head)<br>
       <h3>Contact.</h3>
-      <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">Discord 💬</a><br>
-      <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">E-mail ✉️</a><br>
-      <a href = "https://zenodo.org/communities/confoederatio/" title = "Zenodo: Confoederatio">Zenodo 🧪</a>
+      <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">💬<b>Discord</b></a> | <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">✉️E-mail</a> | <a href = "gitlab.com/confoederatio" title = "GitLab">📇GitLab</a> |<br><a href = "https://www.youtube.com/@Confoederatio" title = "YouTube: Confoederatio">▶️YouTube</a> | <a href = "https://zenodo.org/communities/confoederatio/" title = "Zenodo: Confoederatio">🧪Zenodo</a>
     </td>
   </tr>
   <tr>
     <td colspan = "3" valign = "top">
-      <details open>
+      <details>
       <summary><h2>CAD Projects.</h2> (Confoederatio, Artistic Division) <kbd>↨ 3 Main Projects</kbd></summary>
 
 Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork used in Confoederatio projects. 
@@ -40,13 +40,13 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
         <summary>Art Projects. <kbd>↨ 2 Main Projects</kbd></summary><br>
             
     __Digital Twins:__
-    - **G-Earth/MC**: General projects related to automating the construction and rendering of city geomeetries in Minecraft.
+    - **G-Earth/MC**: General projects related to automating the construction and rendering of city geometries.
       - [📝 Documentation](https://confoederatiodocs.info/en/CAD/GEarth_MC) | [Osaka 1:1, 36km^2](https://drive.google.com/file/d/1Zc-bbopWoFYGtOOSQZjeNbFmUtC_QNcr/view?usp=sharing) | [Vienna 1:1, 16km^2](https://drive.google.com/file/d/1-GFTi4VG853RUEYEoSaFcJoYNAJfGeBs/view?usp=sharing)
     - **Project 1911/1912**: Manual projects to reconstruct the Low Countries at 1:1 scale in Minecraft.
             
       </details>
 </details>
-      <details>
+      <details open>
       <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 7 Main Projects</kbd></summary>
 
 __Archives:__
@@ -54,13 +54,13 @@ __Archives:__
   - [📚 Digital Preservés](https://discord.com/channels/548994743925997570/1087880811501600788)
 
 __Datasets (Histmap):__
-- **Eoscala**: GDP (PPP) and other economic activity estimates from 10000BC-2022AD at 5-arcminute resolution.
+- **Atlas:** A vector database of de facto polities and combatants at a global level from 3300BC to 2026AD; C-Shapes used for de jure frontiers since 1945AD. 
+  - [📦 Dataset (0.5)](https://drive.google.com/drive/folders/1jTr_QT14V2jT-L-TGqbS1vEwh1kZJoAw?usp=sharing)
+- **Eoscala**: GDP (PPP), Gini, and other economic activity estimates from 10000BC-2023AD at 5-arcminute resolution.
   - [📝 Paper](https://github.com/ConfoederatioVF/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/ConfoederatioVF/Eoscala-Velkscala/tree/main/eoscala_1.2)
-- **Sehistoir:** A vector database of census/population subadministrative divisions at a global level from 1800AD to the Present at 1-year intervals.
-  - [📑 Documentation](https://confoederatiodocs.info/en/CRD/Sehistoir)
-- **Stadestér**: A geolocated database of ~41000 cities from 3000BC to the Present at 1-year population intervals.
+- **Stadestér**: A geolocated database of ~41000 cities from 3000BC to the Present at 1-year intervals. Population and area.
   - [📝 Paper](https://confoederatio.org/papers/Stadest%C3%A9r%201.0%20-%20A%20Global%20Database%20of%2041000%2B%20Cities%20From%203000BC%20to%20the%20Present.pdf) | [👥 Stadestér 1.0 Rasters, JSON (Zenodo)](https://doi.org/10.5281/zenodo.17172244)] | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Stadester)
-- **Velkscala**: Population estimates from 10000BC-2023AD at 5-arcminute resolution.
+- **Velkscala**: Population, land-use estimates from 10000BC-2023AD at 5-arcminute resolution (urban/rural/total).
   - [📝 Paper](https://github.com/ConfoederatioVF/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/ConfoederatioVF/Eoscala-Velkscala/tree/main/velkscala_0.7)
  
 __Datasets & Livemap:__
@@ -68,7 +68,7 @@ __Datasets & Livemap:__
   - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Collation)
 
 __Software & Tooling:__
-- **Naissance GIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
+- **Naissance HGIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
   - [📦 Releases](https://github.com/ConfoederatioVF/Naissance/releases) | [:computer: Source (Repository)](https://github.com/ConfoederatioVF/Naissance)
       </details>
       <details>
