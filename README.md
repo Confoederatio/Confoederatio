@@ -20,12 +20,23 @@
       <br><br>
       <b>Clone the world.</b>
     </td>
-    <td align="right" width = "350px" valign = "top"> 
-      <h3>Core Members.</h3>
-      • Aust Kätzchen (CRD, Head)<br>
-      • Vis Tacitus (CTD, Head)<br>
+    <td align="left" width = "350px" valign = "top"> 
+      <h3>Members.</h3>
+      <ul>
+        <li>Aust Kätzchen (CAD/CRD, Head)</li>
+        <li>Trident (CRD)</li>
+      </ul>
+      <ul>
+        <li>Vis Tacitus (CTD, Head)</li>
+        <li>Savitarimus (CTD) | Tony Bolivar (CTD Games)</li>
+      </ul>
+      <ul>
+        <li>Abraxicus (Preservés)</li>
+      </ul>
+      <div align="right">
       <h3>Contact.</h3>
-      <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">💬<b>Discord</b></a> | <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">✉️E-mail</a> | <a href = "gitlab.com/confoederatio" title = "GitLab">📇GitLab</a> |<br><a href = "https://github.com/ConfoederatioVF" title = "Github: Confoederatio">💻GitHub</a> | <a href = "https://www.youtube.com/@Confoederatio" title = "YouTube: Confoederatio">▶️YouTube</a> | <a href = "https://zenodo.org/communities/confoederatio/" title = "Zenodo: Confoederatio">🧪Zenodo</a>
+      <a href = "https://discord.gg/midnight-548994743925997570" title = "Discord: CONFOEDERATIO_">💬<b>Discord</b></a> | <a href = "https://element.confoederatio.org/" title = "Element Matrix: CONFOEDERATIO_">💬Element</a> | <a href = "mailto:vf@confoederatio.org" title = "E-mail: vf@confoederatio.org">✉️E-mail</a>| <a href = "https://gitlab.com/confoederatio" title = "GitLab">📇GitLab</a> |<br><a href = "https://github.com/ConfoederatioVF" title = "Github: Confoederatio">💻GitHub</a> | <a href = "https://www.youtube.com/@Confoederatio" title = "YouTube: Confoederatio">▶️YouTube</a> | <a href = "https://zenodo.org/communities/confoederatio/" title = "Zenodo: Confoederatio">🧪Zenodo</a>
+      </div>
     </td>
   </tr>
   <tr>
@@ -57,11 +68,11 @@ __Datasets (Histmap):__
 - **Atlas:** A vector database of de facto polities and combatants at a global level from 3300BC to 2026AD; C-Shapes used for de jure frontiers since 1945AD. 
   - [📦 Dataset (0.5)](https://drive.google.com/drive/folders/1jTr_QT14V2jT-L-TGqbS1vEwh1kZJoAw?usp=sharing)
 - **Eoscala**: GDP (PPP), Gini, and other economic activity estimates from 10000BC-2023AD at 5-arcminute resolution.
-  - [📝 Paper](https://github.com/ConfoederatioVF/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/ConfoederatioVF/Eoscala-Velkscala/tree/main/eoscala_1.2)
+  - [📝 Paper](https://github.com/ConfoederatioVF/EoscalaVelkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/ConfoederatioVF/EoscalaVelkscala/tree/main/eoscala_1.2)
 - **Stadestér**: A geolocated database of ~41000 cities from 3000BC to the Present at 1-year intervals. Population and area.
   - [📝 Paper](https://confoederatio.org/papers/Stadest%C3%A9r%201.0%20-%20A%20Global%20Database%20of%2041000%2B%20Cities%20From%203000BC%20to%20the%20Present.pdf) | [👥 Stadestér 1.0 Rasters, JSON (Zenodo)](https://doi.org/10.5281/zenodo.17172244)] | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Stadester)
 - **Velkscala**: Population, land-use estimates from 10000BC-2023AD at 5-arcminute resolution (urban/rural/total).
-  - [📝 Paper](https://github.com/ConfoederatioVF/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/ConfoederatioVF/Eoscala-Velkscala/tree/main/velkscala_0.7)
+  - [📝 Paper](https://github.com/ConfoederatioVF/EoscalaVelkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/ConfoederatioVF/EoscalaVelkscala/tree/main/velkscala_0.7)
  
 __Datasets & Livemap:__
 - **Collation:** A live OSINT portal/dashboard for Naissance focused on GEOINT, ORBATs, news aggregation, as well as logistics and supply chains.
@@ -96,7 +107,7 @@ __Grand-strategy Games/Mods:__
 __Software & Tooling:__
 - **Ampersand Mod Creator:** A mod creator for Triumph & Tragedy.
   - [📦 Releases](https://github.com/ConfoederatioVF/Ampersand-Mod-Creator/releases) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Ampersand-Mod-Creator)
-- **Scriptly IDE:** An embeddable visual IDE with block-based/node-based/text editing.
+- **Scriptly IDE:** An embeddable visual IDE with block-based/node-based/text editing. Superseded by Vercengen/Scriptly.
   - [📦 Releases](https://github.com/ConfoederatioVF/Scriptly/releases/) | [💻 Source (Repository)](https://github.com/ConfoederatioVF/Scriptly)
       </details>
     </td>
