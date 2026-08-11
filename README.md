@@ -16,9 +16,9 @@
       <h1>Welcome to Confoederatio.</h1>
       <a href = "https://confoederatio.org"><b>Website</b></a> | <a href = "https://confoederatiodocs.info/"><b>Documentation</b></a> | <a href = "https://docs.confoederatio.org/"><b>Wiki</b></a>
       <br><br>
-      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or our legacy Games Division (run by CTD), you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed.
+      We're a data science studio focused on digitally modelling the world from the Neolithic to Now. If you're looking for our data editors, software engines, infrastructure, or our legacy Games Division (run by CTD), you're in the right place.<br><br>Unlike the outfits we compete with, our projects are MIT licenced, and we encourage their use and exaptation. To maintain our wide-ranging domain, we also carry out foundational infrastructure work through our software engine (Vercengen) and GIS (Naissance). Only projects that are in an operable/released state are listed here.
       <br><br>
-      <code>Confoederatio</code> is the team personal account for <code>ConfoederatioVF</code>, which can be found <a href = "https://github.com/ConfoederatioVF">here</a>.
+      <b>Clone the world.</b>
     </td>
     <td align="left" width = "350px" valign = "top"> 
       <h3>Members.</h3>
@@ -66,7 +66,7 @@ Confoederatio, Artistic Division is in charge of UI/UX design as well as artwork
       </details>
 </details>
       <details open>
-      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 7 Main Projects</kbd></summary>
+      <summary><h2>CRD Projects.</h2> (Confoederatio, Research Division) <kbd>↨ 8 Main Projects</kbd></summary>
 
 __Archives:__
 - **Preservés des Confoederatio**: Digital and physical archives of ~4000 historical maps and atlases, as well as translations of historical documents. You can open a private inquiry if you are interested in the physical holdings of the Preservés.
@@ -83,8 +83,10 @@ __Datasets (Histmap):__
   - [📝 Paper](https://github.com/ConfoederatioVF/EoscalaVelkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [👥 Velkscala 0.5 Rasters](https://github.com/ConfoederatioVF/EoscalaVelkscala/tree/main/velkscala_0.7)
  
 __Datasets & Livemap:__
-- **Collation:** A live OSINT portal/dashboard for Naissance focused on GEOINT, ORBATs, news aggregation, as well as logistics and supply chains.
+- **Collation**: A live OSINT portal/dashboard for Naissance focused on GEOINT, ORBATs, news aggregation, as well as logistics and supply chains.
   - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Collation)
+- **Harbinger**: CV/ML toolkit for structuring noisy map data, especially from multimodal image/text/video scrapes.
+  - [💻 Source (Repository)](https://github.com/ConfoederatioVF/Harbinger)
 
 __Software & Tooling:__
 - **Naissance HGIS**: A historical 3D GIS focused on sovereignty, statistical visualisation, and data wrangling.
